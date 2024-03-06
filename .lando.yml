@@ -1,0 +1,6 @@
+name: drupalcoffee
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupalcoffee
+  id: 39ab4ab1-5190-4d7b-b06b-355152eff156
